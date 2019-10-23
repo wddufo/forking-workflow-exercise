@@ -1,5 +1,4 @@
-
-
+[![DOI: 10.5072/zenodo.413603](https://zenodo.org/badge/doi/10.5072/zenodo.413603.svg)](https://doi.org/10.5072/zenodo.413603)
 ## Exercise: practice collaborative forking workflow
 
 In this exercise, we make a fork, push to that fork, and make a pull
