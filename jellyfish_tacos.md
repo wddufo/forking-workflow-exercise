@@ -1,6 +1,6 @@
 ## Recipe for jellyfish tacos
 ### For some soft flubby goodness
 
-### Instructions
+### What to do: 
  * Make tacos
- * add a jellyfish
+ * add a jellyfish (The spicy bois are the best!)
