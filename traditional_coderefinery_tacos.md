@@ -8,4 +8,3 @@ Sauce, like chipotle sauce
 Sriracha or other hot sauce
 Avocado or Guacamole
 Warm taco shells and assemble tacos. Double shelling is more than acceptable.
-
